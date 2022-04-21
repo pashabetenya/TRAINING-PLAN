@@ -1,0 +1,49 @@
+- ДОКУМЕНТАЦИЯ ПО ПОВОДУ ЯЗЫКА ПРОГРАММИРОВАНИЯ, 
+  https://dart.dev/. (САЙТ, ГДЕ ИМЕЕТСЯ SDK И ОПИСАНИЕ. ДОКУМЕНТАЦИЯ НАХОДИТСЯ В РАЗДЕЛЕ DOCS).
+
+- ДОКУМЕНТАЦИЯ ФРЕЙМВОРКА,
+  https://flutter.dev/. (САЙТ, ГДЕ ИМЕЕТСЯ SDK И ОПИСАНИЕ. ДОКУМЕНТАЦИЯ НАХОДИТСЯ В РАЗДЕЛЕ DOCS).
+
+МИНИМАЛЬНЫЕ ТРЕБОВАНИЯ:
+- BASIC MOBILE PRINCIPLES:
+  1. Version control - Git.
+  DOCS, https://git-scm.com/book/ru/v2.
+
+  2. UX/UI.
+  3. Difference, between UX/UI.
+  4. OOP:
+   4.1. Principles.
+   4.2. SOLID.
+- DART CORE:
+  1. Effective Dart.
+  2. Type System.
+  3. Dart cheatsheet codelab.
+  4. Iterable collections.
+  5. How to use packages.
+- FLUTTER:
+  1. Application Fundamentals.
+  2. Widgets.
+  3. Layouts in Flutter.
+  4. Stateful Widgets, and Interactivity.
+  5. Navigation.
+  6. Scrolling widgets.
+  7. State Management.
+  8. Flutter BLoC (+REDUX).
+  9. Networking
+  10. JSON, and Serialization.
+  11. Package.
+- BOOKS:
+  1. FLUTTER COOKBOOK, SIMONE ALESSANDRIA AND BRIAN KAYFITZ.
+  2. CLEAN ARCHITECTURE, ROBERT C. MARTIN.
+
+САЙТЫ, ДЛЯ ПРОВЕРКИ СВОИХ ЗНАНИЙ:
+- ПОЗВОЛЯЮТ НЕ ПРИДУМЫВАТЬ СЕБЕ КАКИЕ-ЛИБО ЗАДАЧИ, А ПРИДУМЫВАТЬ РЕШЕНИЯ УЖЕ ДЛЯ ГОТОВЫХ ЗАДАЧ.
+  ЕСЛИ ВОЗНИКАЮТ СЛОЖНОСТИ, ТО ИМЕЕТСЯ ГОТОВОЕ РЕШЕНИЕ, И ОПИСАНИЕ К НЕМУ.
+  1. CODEWARS, https://www.codewars.com/.
+  2. LEETCODE, https://leetcode.com/.
+
+IDE:
+- VSCODE, https://code.visualstudio.com/.
+  DOCS, https://code.visualstudio.com/docs.
+- ANDROID STUDIO, https://code.visualstudio.com/docs.
+  DOCS, https://developer.android.com/docs.
